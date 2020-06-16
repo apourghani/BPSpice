@@ -1,4 +1,4 @@
-public class Capacitor {
+public class Capacitor extends Element{
 
     String input;
     public Capacitor(String input){
